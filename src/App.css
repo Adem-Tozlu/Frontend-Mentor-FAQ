@@ -1,19 +1,15 @@
-
-:root{
-  --color-white:hsl(0, 0%, 100%);
-  --color-light-pink:hsl(275, 100%, 97%);
-  --color-grayish-purple:hsl(292, 16%, 49%);
-  --color-dark-purple:hsl(292, 42%, 14%);
-
-
+:root {
+  --color-white: hsl(0, 0%, 100%);
+  --color-light-pink: hsl(275, 100%, 97%);
+  --color-grayish-purple: hsl(292, 16%, 49%);
+  --color-dark-purple: hsl(292, 42%, 14%);
 }
 
+body {
+  font-family: "Work Sans", sans-serif;
 
-body{
-  font-family: 'Work Sans', sans-serif;
-  
   color: var(--color-grayish-purple);
-  background-image: url('../assets/images/background-pattern-mobile.svg');
+  background-image: url("../assets/images/background-pattern-mobile.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-color: var(--color-light-pink);
@@ -24,28 +20,24 @@ body{
   width: 100%;
   box-sizing: border-box;
   margin: 0 auto;
-
-
 }
-.container{
+.container {
   border-radius: 10px;
   background-color: var(--color-white);
- max-width: 16.4rem;
- font-weight: 500;
- height: 100%;
-  padding:0.5rem 1.5rem;
- 
- 
+  max-width: 16.4rem;
+  font-weight: 500;
+  height: 100%;
+  padding: 0.5rem 1.5rem;
 }
 
-h1{
+h1 {
   color: var(--color-dark-purple);
   display: flex;
   align-items: center;
   gap: 1.5rem;
 }
-.starIcon{
- width: 1.5rem;
+.starIcon {
+  width: 1.5rem;
 }
 
 .hidden {
@@ -55,19 +47,32 @@ h1{
 .visible {
   display: block;
 }
-strong{
-  
+strong {
   color: var(--color-dark-purple);
   font-weight: 700;
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin: 1rem 0;
-  
+}
+strong:hover {
+  cursor: pointer;
+  color: rgb(179, 39, 179);
 }
 
-p{
+p {
   font-size: 0.9rem;
- 
-  
+  color: var(--color-grayish-purple);
+  font-weight: 400;
+}
+hr {
+  border: 1px solid var(--color-light-pink);
+  margin: 1rem 0;
+}
+@media screen and (min-width: 1024px) {
+  body{ background-image: url("../assets/images/background-pattern-desktop.svg");}
+  .container {
+    max-width: 30rem;
+    padding: 1rem 2rem;
+  }
 }

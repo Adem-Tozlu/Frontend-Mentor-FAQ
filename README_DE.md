@@ -3,19 +3,19 @@ This is a solution to the [Product FAQ accordion challenge on Frontend Mentor](h
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Übersicht](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Mein Prozess](#my-process)
+  - [Erstellt mit](#built-with)
   - [Frameworks](#frameworks)
   - [Tools](#tools)
-  - [What I learned](#what-i-learned)
+  - [Was ich gelernt habe](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
 
 
-## Overview
+## Übersicht
 
 ### Screenshot
 
@@ -26,9 +26,9 @@ This is a solution to the [Product FAQ accordion challenge on Frontend Mentor](h
 - Solution URL: [Github-Solution](https://github.com/Adem-Tozlu/Frontend-Mentor-FAQ)
 - Live Site URL: [Website-QR.Code](https://frontend-mentor-faq-alpha.vercel.app/)
 
-## My process
+## Mein Prozess
 
-### Built with
+### Erstellt mit
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -43,13 +43,11 @@ This is a solution to the [Product FAQ accordion challenge on Frontend Mentor](h
 ## Tools
  - Vite
 
-## What I learned 
-I learned how to use JavaScript in React. Since I was new to React, this was a big step forward for me.
+## Was ich gelernt habe
+Ich habe gelernt, JavaScript in React zu verwenden. Da ich mit React neu angefangen habe, war dies ein großer Fortschritt für mich.
 
-## Continued development
-I will create more projects in Frontend Mentor in the future to further develop my React skills.
-
-
+## Fortsetzung der Entwicklung
+In Zukunft werde ich weitere Projekte im Frontend Mentor erstellen, um meine React-Fähigkeiten weiterzuentwickeln.
 ## Author
 
 - Website - [Github](https://github.com/Adem-Tozlu)

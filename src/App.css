@@ -1,0 +1,9 @@
+body{
+  background-image: url('../assets/images/background-pattern-mobile.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.in{
+  display:normal;
+}

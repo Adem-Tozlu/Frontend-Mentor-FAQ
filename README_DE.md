@@ -1,5 +1,5 @@
 # Frontend Mentor - Product FAQ accordion
-This is a solution to the [Product FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Dies ist eine Lösung für die [Produkt-FAQ-Akkordeon-Challenge auf Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub). Frontend-Mentor-Herausforderungen helfen Ihnen, Ihre Programmierfähigkeiten zu verbessern, indem Sie realistische Projekte erstellen.Ziel dieser Herausforderung war es, einen Absatz mithilfe von JavaScript beim Klicken zu verbergen und erneut beim Klicken anzuzeigen.
 
 ## Table of contents
 

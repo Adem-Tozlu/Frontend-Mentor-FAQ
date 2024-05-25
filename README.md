@@ -1,5 +1,5 @@
 # Frontend Mentor - Product FAQ accordion
-This is a solution to the [Product FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product FAQ Accordion Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub). Frontend Mentor Challenges help you improve your programming skills by creating realistic projects. The goal of this challenge was to hide a paragraph on click and show it again on click using JavaScript.
 
 ## Table of contents
 

@@ -1,9 +1,73 @@
+
+:root{
+  --color-white:hsl(0, 0%, 100%);
+  --color-light-pink:hsl(275, 100%, 97%);
+  --color-grayish-purple:hsl(292, 16%, 49%);
+  --color-dark-purple:hsl(292, 42%, 14%);
+
+
+}
+
+
 body{
+  font-family: 'Work Sans', sans-serif;
+  
+  color: var(--color-grayish-purple);
   background-image: url('../assets/images/background-pattern-mobile.svg');
   background-size: contain;
   background-repeat: no-repeat;
+  background-color: var(--color-light-pink);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 auto;
+
+
+}
+.container{
+  border-radius: 10px;
+  background-color: var(--color-white);
+ max-width: 16.4rem;
+ font-weight: 500;
+ height: 100%;
+  padding:0.5rem 1.5rem;
+ 
+ 
 }
 
-.in{
-  display:normal;
+h1{
+  color: var(--color-dark-purple);
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+.starIcon{
+ width: 1.5rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.visible {
+  display: block;
+}
+strong{
+  
+  color: var(--color-dark-purple);
+  font-weight: 700;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0;
+  
+}
+
+p{
+  font-size: 0.9rem;
+ 
+  
 }
